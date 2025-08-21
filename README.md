@@ -4,6 +4,7 @@
 The project consists of simple skills I learned in NETX 439: Troubleshooting the Internetwork and NETX 432: Routing Concepts and Applications, Network Engineering courses at Skyline College.
 
 <h2>Network Specification</h2>
+
 - <b>Advanced Routing Protocol (EIGRP or OSPF only)<b/>
 - <b>Must include at least 9 Networks (Hint: Every VLAN is already a network that requires broadcasting)<b/>
 - <b>Minimum of 2 security options on switch<b/>
